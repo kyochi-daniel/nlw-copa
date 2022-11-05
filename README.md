@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O NLW Copa teve como tema, o calendário da copa do mundo 2022.
+Acesse o projeto, [cliclando aqui](https://kyochi7.github.io/nlw-copa/) 
 
 ## 🔖 Layout
 
